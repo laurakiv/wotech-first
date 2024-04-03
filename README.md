@@ -13,7 +13,7 @@ Read me file uses markdown sytex to edit any text, formulas or codes.
 3. My own social network
 
 ## My favorite part of code
-'''java
+```java
     double temp = -15.0; //double because 5.1 is already "Warm warm clothes")
     
     if (temp <= 5) {
@@ -25,6 +25,6 @@ Read me file uses markdown sytex to edit any text, formulas or codes.
     } else {
       System.out.println("Wear cool clothes!");
   }
-'''
+```
 
   
